@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biryazilimci)](https://github.com/biryazilimci/github-readme-stats)
 
 <h1 align="center">Hi 👋, I'm Harun Yahya ÜNAL</h1>
 <h3 align="center">A passionate game and application developer from Türkiye</h3>
