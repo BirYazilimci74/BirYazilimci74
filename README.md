@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Harun Yahya ÜNAL</h1>
 <h3 align="center">A passionate game and application developer from Türkiye</h3>
 
