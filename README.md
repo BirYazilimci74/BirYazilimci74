@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **.NET C#**
 
+- 🤝 I’m looking for help with **learning C#**
+
 - 📫 How to reach me **yahyaunal89@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
