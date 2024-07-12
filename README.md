@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harun Yahya ÜNAL</h1>
-<h3 align="center">A passionate game and application developer from Türkiye</h3>
+<h3 align="center">A passionate .NET C# and application developer from Türkiye</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biryazilimci&label=Profile%20views&color=0e75b6&style=flat" alt="biryazilimci" /> </p>
 
