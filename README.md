@@ -33,5 +33,5 @@
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
 
-<img alt="biryazilimci" align="left" width="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=biryazilimci74&"/><img alt="biryazilimci" align="middle" width="33%" src="https://github-readme-stats.vercel.app/api?username=biryazilimci74&show_icons=true&locale=en"/><img alt="top lang" align="left" width="28%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biryazilimci74&layout=compact"/>
+<img alt="biryazilimci" align="left" width="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=biryazilimci74&"/><img alt="biryazilimci" align="middle" width="33%" src="https://github-readme-stats.vercel.app/api?username=biryazilimci74&show_icons=true&locale=en"/><img alt="top lang" align="left" width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biryazilimci74&layout=compact"/>
 
