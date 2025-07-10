@@ -36,3 +36,6 @@
 
 
 <img alt="biryazilimci" align="left" width="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=biryazilimci74&"/><img alt="biryazilimci" align="middle" width="33%" src="https://github-readme-stats.vercel.app/api?username=biryazilimci74&show_icons=true&locale=en"/><img alt="top lang" align="left" width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biryazilimci74&layout=compact"/>
+
+
+https://docs.google.com/presentation/d/1dXlruCg3erZ9ahmEi6S6suVkCdJ-tIFzuzkvR1kwY7A/edit?usp=sharing
