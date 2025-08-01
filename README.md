@@ -48,3 +48,5 @@
 
 
 <img alt="biryazilimci" align="left" width="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=biryazilimci74&"/><img alt="biryazilimci" align="middle" width="33%" src="https://github-readme-stats.vercel.app/api?username=biryazilimci74&show_icons=true&locale=en"/><img alt="top lang" align="left" width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biryazilimci74&layout=compact"/>
+
+https://colab.research.google.com/drive/1NQrXj8AoNnhsiy_PTvYE3qL78uUnHO9I?usp=sharing
