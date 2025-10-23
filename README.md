@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biryazilimci&label=Profile%20views&color=0e75b6&style=flat" alt="biryazilimci" /> </p>
 
 
-- 🌱 I’m currently learning **.NET Core C#**
+- 🌱 I’m currently learning **Java and DevOps**
 
-- 🤝 I’m looking for help with **learning C#**
+- 🤝 I’m looking for help with **learning DevOps**
 
 - 📫 How to reach me **yahyaunal89@gmail.com**
 
