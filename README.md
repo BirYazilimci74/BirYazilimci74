@@ -3,22 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biryazilimci&label=Profile%20views&color=0e75b6&style=flat" alt="biryazilimci" /> </p>
 
-- 👨‍💻 Software engineer focusing on **backend development** and **DevOps**
 - 🎓 Software Engineering graduate of **Maltepe University**
-- 🌱 Currently learning **Java** and **DevOps**
-- 🏠 Running a self-hosted homelab on **Raspberry Pi** with **Docker Swarm** & **Dokploy**
+- 👨‍💻 Software engineer focusing on **backend development** and **DevOps**
 - 💡 Interested in backend engineering, cloud development and internet technologies
-- 🌐 Personal website: [biryazilimci.hyunal.dev](https://biryazilimci.hyunal.dev/)
-- ✍️ I write on [Medium](https://medium.com/@yahyaunal89)
+- 🌱 Currently learning **Java** and **DevOps**
 - 📫 How to reach me: **yahyaunal89@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://tr.linkedin.com/in/harun-yahya-%c3%bcnal-640673218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://medium.com/@yahyaunal89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
+<a href="https://medium.com/@yahyaunal89" target="blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/medium/ffffff" /><img align="center" src="https://cdn.simpleicons.org/medium/000000" alt="Medium" height="30" width="30" /></picture></a>
 <a href="https://stackoverflow.com/users/20018935/harun-yahya-%c3%9cnal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/BirYazilimci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
-<a href="https://biryazilimci.hyunal.dev/" target="blank"><img align="center" src="https://www.google.com/s2/favicons?domain=biryazilimci.hyunal.dev&sz=64" alt="Personal website" height="30" width="30" /></a>
+<a href="https://biryazilimci.hyunal.dev/" target="blank"><img align="center" src="https://biryazilimci.hyunal.dev/img/favicon.png" alt="Personal website" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages:</h3>
